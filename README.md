@@ -11,16 +11,22 @@ Try It Yourself
 
 A sample input ZIP file is included in this repository for quick testing:
 
-📦 sample_input/papers.zip
+sample_input/papers.zip
 
 You can use this file to test the agent without searching for research papers yourself.
 
 Using the Live Demo
+
 Open the Swagger UI:
+
 https://research-paper-summary-agent.onrender.com/docs
+
 Expand the POST /summarize endpoint.
+
 Click Try it out.
+
 Upload sample_input/papers.zip.
+
 Execute the request and download the generated summary report.
 
 ## How it works (agent flow)
