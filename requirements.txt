@@ -1,0 +1,11 @@
+langchain
+langchain-openai
+langgraph
+typing-extensions
+fastapi
+uvicorn
+langchain-groq
+python-multipart
+chardet
+python-dotenv
+PyPDF2
