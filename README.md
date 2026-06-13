@@ -5,6 +5,8 @@ synthesized cross-paper summary — key findings, methodology, and conclusions
 for each paper, compared side by side. Built with **LangGraph** (agent flow),
 **LangChain + Groq** (LLM calls), and exposed via a **FastAPI** server.
 
+🔗 **Live API**: https://research-paper-summary-agent.onrender.com/docs
+
 ## How it works (agent flow)
 
 The agent is a small graph of steps (`graph_builder.py`) that run in sequence:
