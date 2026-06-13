@@ -7,6 +7,19 @@ for each paper, compared side by side. Built with **LangGraph** (agent flow),
 
 🔗 **Live API**: https://research-paper-summary-agent.onrender.com/docs
 
+Try It Yourself
+A sample input ZIP file is included in this repository for quick testing:
+sample_input/papers.zip
+You can use this file to test the agent.
+
+Using the Live Demo
+Open the Swagger UI:
+https://research-paper-summary-agent.onrender.com/docs
+Expand the POST /summarize endpoint.
+Click Try it out.
+Upload sample_input/papers.zip.
+Execute the request and download the generated summary report.
+
 ## How it works (agent flow)
 
 The agent is a small graph of steps (`graph_builder.py`) that run in sequence:
