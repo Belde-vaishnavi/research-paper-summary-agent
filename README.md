@@ -11,9 +11,9 @@ Try It Yourself
 
 A sample input ZIP file is included in this repository for quick testing:
 
-sample_input/papers.zip
+📦 sample_input/papers.zip
 
-You can use this file to test the agent.
+You can use this file to test the agent without searching for research papers yourself.
 
 Using the Live Demo
 Open the Swagger UI:
